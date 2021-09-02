@@ -1,0 +1,6 @@
+PROC_INIT = 1 # wait to start
+PROC_STARTING = 2
+PROC_WORKING = 4
+PROC_STOPPING = 8
+PROC_STOP = 16
+PROC_ERROR = 32 # stop_with_error
